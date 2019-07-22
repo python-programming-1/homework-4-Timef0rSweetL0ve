@@ -1,6 +1,6 @@
 # Homework 4
 
-# Let's Make A Game! 
+# Let's Make A Game!
 ## Can you make rock paper scissors?
 
 For this assignment you'll make a rock paper scissors game!
@@ -28,4 +28,7 @@ Sample output:
     n
     >>Thanks bye!
 
-9. Follow the instructions as precisely as possible, but feel free to ask me for clarification. You'll want to use loops like a while loop to repeat certain instructions, like asking a user to play again, and if/else statements to help your program handle the different possible outcomes that your game of rock paper scissors may generate. You may use a list or some other data structure to store the history of player moves for #8.
+9. Follow the instructions as precisely as possible, but feel free to ask me for clarification.
+You'll want to use loops like a while loop to repeat certain instructions, like asking a user to play again, and
+if/else statements to help your program handle the different possible outcomes that your game of rock paper scissors may generate.
+You may use a list or some other data structure to store the history of player moves for #8.
